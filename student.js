@@ -11,11 +11,11 @@ const sampleStudents = [
     {
         id: 1,
         roll: "CSE001",
-        name: "Aman Sharma",
+        name: "Charishma",
         course: "B.Tech CSE",
         semester: "3",
         department: "CSE",
-        email: "aman@example.com"
+        email: "Charishma@example.com"
     },
     {
         id: 2,
